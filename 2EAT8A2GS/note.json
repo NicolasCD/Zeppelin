@@ -1,0 +1,78 @@
+{
+  "paragraphs": [
+    {
+      "text": "sc",
+      "user": "anonymous",
+      "dateUpdated": "Apr 30, 2019 1:26:45 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala"
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "res0: org.apache.spark.SparkContext \u003d org.apache.spark.SparkContext@141b9278\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1556630801210_-76668734",
+      "id": "20190430-132641_252951161",
+      "dateCreated": "Apr 30, 2019 1:26:41 PM",
+      "dateStarted": "Apr 30, 2019 1:26:45 PM",
+      "dateFinished": "Apr 30, 2019 1:27:00 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "anonymous",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1556630805777_1316507033",
+      "id": "20190430-132645_288609346",
+      "dateCreated": "Apr 30, 2019 1:26:45 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "first notebook",
+  "id": "2EAT8A2GS",
+  "angularObjects": {
+    "2EAB7UX2E:shared_process": [],
+    "2EBG437BN:shared_process": [],
+    "2E9V1NB85:shared_process": [],
+    "2E9PCXUWZ::2EAT8A2GS": [],
+    "2ECNUJC9M:shared_process": [],
+    "2EBW7RYR7:shared_process": [],
+    "2EBBDVCRW:shared_process": [],
+    "2EB59XY9D:shared_process": [],
+    "2E9UTQQCJ:shared_process": [],
+    "2E8YPGTEG:shared_process": [],
+    "2E8THF3UV:shared_process": [],
+    "2E9K5ZUQX:shared_process": [],
+    "2E9Y8XNGS:shared_process": [],
+    "2E8RKX4N6:shared_process": [],
+    "2EBXEYCE3:shared_process": [],
+    "2EBM7TUB2:shared_process": [],
+    "2EBRYPYHB:shared_process": [],
+    "2E9KJEW43:shared_process": [],
+    "2EBKETZ5Z:shared_process": []
+  },
+  "config": {},
+  "info": {}
+}
